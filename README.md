@@ -26,3 +26,8 @@
 |17 | If the implementation is hard to explain, it's a bad idea. | :snake: |
 |18 | If the implementation is easy to explain, it may be a good idea. | :snake: |
 |19 | Namespaces are one honking great idea -- let's do more of those! | :snake: |
+
+
+https://www.edureka.co/blog/interview-questions/django-interview-questions/
+https://www.educative.io/blog/python-interview-questions
+https://data-flair.training/blogs/python-interview-questions/
